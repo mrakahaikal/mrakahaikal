@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="P89zkeTBi-NCfDEPIhEu">
-    <mxGraphModel>
+    <mxGraphModel dx="1501" dy="839" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-1" target="zNVFCUz0n_i2T2X-4hyi-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" y="88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="31" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-10" target="zNVFCUz0n_i2T2X-4hyi-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" y="148" as="sourcePoint" />
+            <mxPoint x="175" y="204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-6" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="717" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-10" value="Inisialisasi array angka = [3, 1, 4, 2]" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="48.5" y="115" width="241" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-11" target="zNVFCUz0n_i2T2X-4hyi-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-11" value="Deklarasi panjang array n = 4" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="48.5" y="189" width="241" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-12" target="zNVFCUz0n_i2T2X-4hyi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-12" value="Lakukan perulangan untuk i dari 0 hingga n-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="268" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-13" target="zNVFCUz0n_i2T2X-4hyi-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-13" target="zNVFCUz0n_i2T2X-4hyi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-13" value="Apakah array[j] &amp;gt; array[j+1]" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="16.5" y="458" width="305" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-16" target="zNVFCUz0n_i2T2X-4hyi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-16" value="Lakukan perulangan untuk j dari 0 hingga n-i-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="93" y="368" width="152" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-20" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="326" y="458" width="36" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-21" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="93" y="564" width="57" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="171" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="548" y="588" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-23" value="Tukar &lt;code&gt;array[j]&lt;/code&gt; dengan &lt;code&gt;array[j+1]&lt;/code&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="458" width="305" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zNVFCUz0n_i2T2X-4hyi-26" target="zNVFCUz0n_i2T2X-4hyi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-26" value="Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="621" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNVFCUz0n_i2T2X-4hyi-30" value="&lt;b&gt;M. Raka Haikal&lt;/b&gt;&lt;div&gt;&lt;b&gt;048836743&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="324" y="253" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
