@@ -62,9 +62,11 @@ Saya adalah pengembang backend yang disiplin dan suka eksplorasi teknologi, deng
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mrakahaikal/mrakahaikal/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrakahaikal/mrakahaikal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrakahaikal/mrakahaikal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrakahaikal/mrakahaikal/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
