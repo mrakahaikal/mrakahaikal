@@ -86,8 +86,8 @@ Saya adalah pengembang backend yang disiplin dan suka eksplorasi teknologi, deng
 | ------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/mrakahaikal/sepatustore">SepatuStore</a>      | TALL + Filament                      | Toko sepatu berbasis session, blog SEO, checkout tanpa akun                                                             |
 | <a href="https://github.com/mrakahaikal/LibraryCLI">LibraryCLI</a>        | .NET CLI                             | CRUD buku dengan output tabular dan reusable formatter                                                                  |
-| <a href="https://github.com/mrakahaikal/rakahousing">LibraryAPI</a>       | ASP.NET Core & Entity Framework Core | Aplikasi Backend perpustakaan hasil peningkatan dari <a href="https://github.com/mrakahaikal/LibraryCLI">LibraryCLI</a> |
-| <a href="https://github.com/mrakahaikal/rakahousing">RakaHousing</a>(WIP) | TALL + FIlament                      | Website Sewa Properti & Simulasi KPR Interaktif                                                                         |
+| <a href="https://github.com/mrakahaikal/LibraryApi">LibraryAPI</a>       | ASP.NET Core & Entity Framework Core | Aplikasi Backend perpustakaan hasil peningkatan dari <a href="https://github.com/mrakahaikal/LibraryCLI">LibraryCLI</a> |
+| <a href="https://github.com/mrakahaikal/rakahousing">RakaHousing</a> (WIP) | TALL + FIlament                      | Website Sewa Properti & Simulasi KPR Interaktif                                                                         |
 
 > Kamu juga bisa cek pinned repositori di profil saya untuk highlight lainnya.
 
