@@ -23,15 +23,15 @@ Saya adalah pengembang backend yang disiplin dan suka eksplorasi teknologi, deng
 
 ###
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,dotnet,github,tailwind,bootstrap,vue,wordpress,ai,ps" />
-  </a>
-</p>
+<img align="right" height="150" src="https://media1.tenor.com/m/X1nlfLKP6toAAAAd/cat-eat.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/X1nlfLKP6toAAAAd/cat-eat.gif"  />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,dotnet,github,tailwind,bootstrap,vue,wordpress" />
+  </a>
+</p>
 
 ###
 
