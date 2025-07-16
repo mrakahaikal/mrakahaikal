@@ -27,8 +27,11 @@ Saya adalah pengembang backend yang disiplin dan suka eksplorasi teknologi, deng
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,dotnet,github,tailwind,bootstrap,vue,wordpress,ai,ps)](https://skillicons.dev)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,dotnet,github,tailwind,bootstrap,vue,wordpress,ai,ps" />
+  </a>
+</p>
 ###
 
 <div align="left">
