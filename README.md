@@ -27,27 +27,7 @@ Saya adalah pengembang backend yang disiplin dan suka eksplorasi teknologi, deng
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,dotnet,github,tailwind,bootstrap,vue,wordpress,ai,ps)](https://skillicons.dev)
 
 ###
 
@@ -82,11 +62,11 @@ Saya adalah pengembang backend yang disiplin dan suka eksplorasi teknologi, deng
 
 ## 📁 Proyek Unggulan
 
-| Proyek                                                                    | Stack                                | Fitur                                                                                                                   |
-| ------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/mrakahaikal/sepatustore">SepatuStore</a>      | TALL + Filament                      | Toko sepatu berbasis session, blog SEO, checkout tanpa akun                                                             |
-| <a href="https://github.com/mrakahaikal/LibraryCLI">LibraryCLI</a>        | .NET CLI                             | CRUD buku dengan output tabular dan reusable formatter                                                                  |
-| <a href="https://github.com/mrakahaikal/LibraryApi">LibraryAPI</a>       | ASP.NET Core & Entity Framework Core | Aplikasi Backend perpustakaan hasil peningkatan dari <a href="https://github.com/mrakahaikal/LibraryCLI">LibraryCLI</a> |
+| Proyek                                                                     | Stack                                | Fitur                                                                                                                   |
+| -------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/mrakahaikal/sepatustore">SepatuStore</a>       | TALL + Filament                      | Toko sepatu berbasis session, blog SEO, checkout tanpa akun                                                             |
+| <a href="https://github.com/mrakahaikal/LibraryCLI">LibraryCLI</a>         | .NET CLI                             | CRUD buku dengan output tabular dan reusable formatter                                                                  |
+| <a href="https://github.com/mrakahaikal/LibraryApi">LibraryAPI</a>         | ASP.NET Core & Entity Framework Core | Aplikasi Backend perpustakaan hasil peningkatan dari <a href="https://github.com/mrakahaikal/LibraryCLI">LibraryCLI</a> |
 | <a href="https://github.com/mrakahaikal/rakahousing">RakaHousing</a> (WIP) | TALL + FIlament                      | Website Sewa Properti & Simulasi KPR Interaktif                                                                         |
 
 > Kamu juga bisa cek pinned repositori di profil saya untuk highlight lainnya.
